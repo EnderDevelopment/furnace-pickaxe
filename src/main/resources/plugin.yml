@@ -1,0 +1,5 @@
+name: FurnacePickaxe
+version: 1.0.0
+main: com.enderdevelopment.plugin.Main
+api-version: "1.21"
+description: A furnace pickaxe that smelts mined drops automatically.
